@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cbir.iml" filepath="$PROJECT_DIR$/.idea/modules/cbir.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cbir_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cbir_main.iml" group="cbir" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cbir_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cbir_test.iml" group="cbir" />
+    </modules>
+  </component>
+</project>

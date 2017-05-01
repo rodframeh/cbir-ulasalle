@@ -1,0 +1,16 @@
+group 'com.ulasalle'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+apply plugin: 'idea'
+
+sourceCompatibility = 1.8
+
+repositories {
+    flatDir {dirs 'lib'}
+}
+
+dependencies {
+    compile fileTree ( dir: 'lib', include:'*.jar')
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
